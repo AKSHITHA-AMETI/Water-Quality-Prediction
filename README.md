@@ -15,7 +15,7 @@ This project was developed as part of a virtual internship in Green AI at Edunet
 ---
 
 ## 🗂 Dataset
-We used the **[UCI Machine Learning Repository – Water Quality Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability/data)**.
+We used the **[Water Quality Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability/data)**.
 
 - **Samples:** 3,276 water samples
 - **Attributes:**
