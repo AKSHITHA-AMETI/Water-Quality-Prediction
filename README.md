@@ -43,7 +43,7 @@ We used the **[Water Quality Dataset](https://www.kaggle.com/datasets/adityakadi
 ---
 
 ## 📈 Methodology
-1. **Data Collection:** Download dataset from UCI ML repository.
+1. **Data Collection:** Downloaded dataset from kaggle .
 2. **Data Preprocessing:**
    - Handle missing values
    - Normalize numerical features (if needed)
