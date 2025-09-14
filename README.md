@@ -60,9 +60,3 @@ We used the **[Water Quality Dataset](https://www.kaggle.com/datasets/adityakadi
    - Predict water safety based on input parameters.
 
 ---
-
-## 🚀 Usage
-1. Clone the repository.
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
